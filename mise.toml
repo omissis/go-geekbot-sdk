@@ -1,0 +1,7 @@
+[tools]
+golang = "1.23.5"
+golangci-lint = "1.63.4"
+shellbits = "0.3.0"
+
+[alias]
+shellbits = 'asdf:https://github.com/mecha-hq/asdf-shellbits'
